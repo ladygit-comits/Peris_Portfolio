@@ -1,7 +1,0 @@
-# VS Code Local History
-.history/
-
-# Node / system files 
-node_modules/
-.DS_Store
-.vscode/
