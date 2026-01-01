@@ -1,3 +1,6 @@
+Sure! Here's your updated CSS as a proper code block:
+
+```css
 :root {
   --primary: #0F3D2E;
   --accent: #C9A24D;
@@ -313,3 +316,4 @@ footer {
   border-radius: 50%;      
   object-fit: cover;    
 }
+```
